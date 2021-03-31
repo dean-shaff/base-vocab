@@ -1,0 +1,2399 @@
+[0]
+source = "pronoun"
+target = "सर्वनाम"
+
+[1]
+source = "I"
+target = "मैं"
+
+[2]
+source = "you (singular)"
+target = [ "आप", "तुम" ]
+
+[3]
+source = "he"
+target = "वह"
+
+[4]
+source = "she"
+target = "वह"
+
+[5]
+source = "it"
+target = "यह"
+
+[6]
+source = "we"
+target = "हम"
+
+[7]
+source = "you (plural, as in \"y'all\")"
+target = [ "आप", "तुम"]
+
+[8]
+source = "they"
+target = "वे"
+
+[9]
+source = "animal"
+target = [ "पशु", "जानवर" ]
+
+[10]
+source = "dog"
+target = "कुत्ता"
+
+[11]
+source = "cat"
+target = "बिल्ली"
+
+[12]
+source = "fish"
+target = [ "मछली" ]
+
+[13]
+source = "bird"
+target = [ "पक्षी",  "चिड़िया", "पंछी" ]
+
+[14]
+source = "cow"
+target = [ "गाय" ]
+
+[15]
+source = "pig"
+target = [ "सुअर" ]
+
+[16]
+source = "mouse"
+target = [ "चूहा" ]
+
+[17]
+source = "horse"
+target = [ "घोड़े" ]
+
+[18]
+source = "wing"
+target = ["पंख"]
+
+[19]
+source = "transportation"
+target = [ "परिवहन" ]
+
+[20]
+source = "train"
+target = [ "रेलगाड़ी" ]
+
+[21]
+source = "plane"
+target = [ "विमान", "हवाई जहाज"]
+
+[22]
+source = "car"
+target = [ "गाड़ी" ]
+
+[23]*
+source = "truck"
+target = [ "ट्रक" ]
+
+[24]
+source = "bicycle"
+target = [ "साइकिल" ]
+
+[25]
+source = "bus"
+target = [ "बस" ]
+
+[26]
+source = "boat"
+target = [ "नाव", "नौका" ]
+
+[27]
+source = "ship"
+target = [ "जहाज" ]
+
+[28]
+source = "tire"
+target = [ "टायर" ]
+
+[29]
+source = "gasoline"
+target = [ "गैसोलीन", "पेट्रोल" ]
+
+[30]
+source = "engine (train)"
+target = [ "इंजन" ]
+
+[31]
+source = "ticket"
+target = [ "टिकट" ]
+
+[32]
+source = "location"
+target = [ "स्थान", "स्थिति" ]
+
+[33]
+source = "city"
+target = [ "शहर", "नगर" ]
+
+[34]
+source = "house"
+target = [ "घर", "मकान" ]
+
+[35]
+source = "apartment"
+target = [ "अपार्टमेंट", "मकान" ]
+
+[36]
+source = "street"
+target = [ "सड़क", "गली", "मार्ग" ]
+
+[37]
+source = "road"
+target = [ "सड़क" ]
+
+[38]*pl
+source = "airport"
+target = [ "हवाई अड्डे", "विमानक्षेत्र" ]
+
+[39]*
+source = "train"
+target = [ "ट्रेन", "प्रशिक्षित", "रेलगाड़ी", "गाड़ी", "रेल", "रेलवे" ]
+
+[40]*pl
+source = "station"
+target = [ "स्टेशन", "थाने" ]
+
+[41]
+source = "bridge"
+target = [ "पुल" ]
+
+[42]
+source = "hotel"
+target = [ "होटल" ]
+
+[43]
+source = "restaurant"
+target = [ "रेस्तरां", "भोजनालय" ]
+
+[44]
+source = "farm"
+target = [ "खेत", "कृषि" ]
+
+[45]
+source = "court"
+target = [ "अदालत",  "न्यायालय" ]
+
+[46]
+source = "school"
+target = [ "स्कूल", "विद्यालय" ]
+
+[47]
+source = "office"
+target = [ "कार्यालय", "ऑफिस", "दफ्तर" ]
+
+[48]*pl
+source = "room"
+target = [ "कमरे", "कक्ष (classroom)" ]
+
+[49]
+source = "town"
+target = [ "शहर",  "नगर" ]
+
+[50]
+source = "university"
+target = [ "विश्वविद्यालय", "यूनिवर्सिटी" ]
+
+[51]
+source = "club"
+target = [ "क्लब" ]
+
+[52]
+source = "bar"
+target = [ "बार", "शराबख़ाना" ]
+
+[53]
+source = "park"
+target = [ "उद्यान" ]
+
+[54]
+source = "camp"
+target = [ "शिविर", "कैंप" ]
+
+[55]
+source = "store"
+target = [  "दुकान" ]
+
+[56]
+source = "shop"
+target = [ "दुकान"]
+
+[57]
+source = "theater"
+target = [ "थियेटर" ]
+
+[58]
+source = "library"
+target = [  "पुस्तकालय" ]
+
+[59]
+source = "hospital"
+target = [ "अस्पताल" ]
+
+[60]
+source = "church"
+target = [ "चर्च" ]
+
+[61]
+source = "market"
+target = [ "बाजार" ]
+
+[62]
+source = "country (USA, France, etc.)"
+target = [ "देश" ]
+
+[63]
+source = "building"
+target = [ "इमारत", "निर्माण",  "भवन" ]
+
+[64]
+source = "ground"
+target = [ "जमीन",  "भूमि" ]
+
+[65]
+source = "space (outer space)"
+target = [ "अंतरिक्ष"]
+
+[66]
+source = "bank"
+target = [ "बैंक"]
+
+[67]
+source = "clothing"
+target = [ "कपड़े", "वस्त्र" ]
+
+[68]
+source = "hat"
+target = [ "टोपी"]
+
+[69]
+source = "dress"
+target = [ "पोशाक"]
+
+[70]
+source = "suit"
+target = [ "सूट", "अनुरूप", "मुकदमा", "वाद" ]
+
+[71]
+source = "skirt"
+target = [ "स्कर्ट" ]
+
+[72]
+source = "shirt"
+target = [ "शर्ट", "कमीज़", "कुर्ता" ]
+
+[73]*
+source = "T-­shirt"
+target = [ "tshirt" ]
+
+[74]
+source = "pants"
+target = [ "पैंट", "पतलून" ]
+
+[75]
+source = "shoes"
+target = [ "जूते"]
+
+[76]
+source = "pocket"
+target = [ "जेब"]
+
+[77]
+source = "coat"
+target = [ "कोट" ]
+
+[78]
+source = "stain"
+target = [ "दाग" ]
+
+[79]
+source = "color"
+target = [ "रंग"]
+
+[80]
+source = "red"
+target = [ "लाल"]
+
+[81]
+source = "green"
+target = [ "हरी"]
+
+[82]
+source = "blue (light/dark)"
+target = [ "नीले"]
+
+[83]
+source = "yellow"
+target = [ "पीला"]
+
+[84]
+source = "brown"
+target = [  "भूरा"]
+
+[85]
+source = "pink"
+target = [ "गुलाबी" ]
+
+[86]
+source = "orange"
+target = [ "नारंगी", "संतरा"]
+
+[87]*pl
+source = "black"
+target = [ "काले"]
+
+[88]
+source = "white"
+target = [ "सफेद"]
+
+[89]*
+source = "gray"
+target = [ "saleTi"]
+
+[90]
+source = "person"
+target = [ "व्यक्ति", "इंसान", "आदमी" ]
+
+[91]
+source = "son"
+target = [ "बेटे", "पुत्र" ]
+
+[92]
+source = "daughter"
+target = [ "बेटी", "पुत्री" ]
+
+[93]
+source = "mother"
+target = [ "माँ", "माता" ]
+
+[94]
+source = "father"
+target = [ "पिता", "पिताजी", "बाप" ]
+
+[95]
+source = "parent (= mother/father)"
+target = [ "माता पिता"]
+
+[96]
+source = "baby"
+target = [ "बच्चे",  "शिशु" ]
+
+[97]
+source = "man"
+target = [ "आदमी", "पुरुष"]
+
+[98]
+source = "woman"
+target = [ "औरत", "महिला", "स्त्री" ]
+
+[99]
+source = "brother"
+target = [ "भाई"]
+
+[100]
+source = "sister"
+target = [ "बहन" ]
+
+[101]
+source = "family"
+target = [ "परिवार" ]
+
+[102]
+source = "grandfather"
+target = [ "दादा" ]
+
+[103]
+source = "grandmother"
+target = [ "दादी" ]
+
+[104]
+source = "husband"
+target = [ "पति" ]
+
+[105]
+source = "wife"
+target = [ "पत्नी" ]
+
+[106]
+source = "king"
+target = [ "राजा", "किंग", "बादशाह", "शाह" ]
+
+[107]
+source = "queen"
+target = [ "रानी", "क्वीन", "महारानी", "बेगम", "क्वींस" ]
+
+[108]
+source = "president"
+target = [ "राष्ट्रपति", "अध्यक्ष" ]
+
+[109]
+source = "neighbor"
+target = [ "पड़ोसी", "नेबर" ]
+
+[110]
+source = "boy"
+target = [ "लड़का", "ब्वॉय", "बॉय" ]
+
+[111]
+source = "girl"
+target = [ "लड़की", "गर्ल" ]
+
+[112]
+source = "child (= boy/girl)"
+target = [ "बच्चे", "चाइल्ड", "बाल", "शिशु" ]
+
+[113]
+source = "adult (= man/woman)"
+target = [ "वयस्क", "प्रौढ़" ]
+
+[114]
+source = "human (≠ animal)"
+target = [ "मानव", "मानवीय", "ह्यूमन", "मनुष्य", "इंसान" ]
+
+[115]
+source = "friend (Add a friend's name)"
+target = [ "दोस्त", "मित्र" ]
+
+[116]
+source = "victim"
+target = [ "शिकार", "विक्टीम", "पीड़ित" ]
+
+[117]
+source = "player"
+target = [ "खिलाड़ी", "प्लेयर" ]
+
+[118]
+source = "fan"
+target = [ "प्रशंसक", "फैन", "पंखे" ]
+
+[119]
+source = "crowd"
+target = [ "भीड़" ]
+
+[120]
+source = "job"
+target = [ "नौकरी", "काम", "कार्य", "जॉब", "अय्यूब", "रोजगार" ]
+
+[121]
+source = "Teacher"
+target = [ "शिक्षक", "अध्यापक", "टीचर", "गुरु" ]
+
+[122]
+source = "student"
+target = [ "छात्र", "विद्यार्थी" ]
+
+[123]
+source = "lawyer"
+target = [ "वकील" ]
+
+[124]
+source = "doctor"
+target = [ "डॉक्टर", "चिकित्सक" ]
+
+[125]
+source = "patient"
+target = [ "रोगी", "मरीज", "धैर्य" ]
+
+[126]
+source = "waiter"
+target = [ "वेटर", "बैरा" ]
+
+[127]
+source = "secretary"
+target = [ "सचिव" ]
+
+[128]
+source = "priest"
+target = [ "पुजारी", "याजक", "पादरी", "पुरोहित" ]
+
+[129]
+source = "police"
+target = [ "पुलिस", "पुलिस ने", "प्रहरी" ]
+
+[130]
+source = "army"
+target = [ "सेना", "आर्मी", "फौज", "सैन्य" ]
+
+[131]
+source = "soldier"
+target = [ "सैनिक", "सिपाही" ]
+
+[132]
+source = "artist"
+target = [ "कलाकार" ]
+
+[133]
+source = "author"
+target = [ "लेखक" ]
+
+[134]
+source = "manager"
+target = [ "प्रबंधक", "मैनेजर" ]
+
+[135]
+source = "reporter"
+target = [ "रिपोर्टर", "संवाददाता", "पत्रकार" ]
+
+[136]
+source = "actor"
+target = [ "अभिनेता", "कलाकार", "अभिनेत्री" ]
+
+[137]
+source = "society"
+target = [ "समाज", "सोसायटी", "सोसाइटी", "समिति" ]
+
+[138]
+source = "religion"
+target = [ "धर्म" ]
+
+[139]
+source = "heaven"
+target = [ "स्वर्ग" ]
+
+[140]
+source = "hell"
+target = [ "नरक", "भाड़", "अरे", "आखिर" ]
+
+[141]
+source = "death"
+target = [ "मौत", "मृत्यु", "डेथ" ]
+
+[142]
+source = "medicine"
+target = [ "दवा", "चिकित्सा", "मेडिसिन", "दवाई", "औषधि", "आयुर्विज्ञान" ]
+
+[143]
+source = "money"
+target = [ "पैसे", "धन", "मनी", "मुद्रा" ]
+
+[144]
+source = "dollar"
+target = [ "डॉलर" ]
+
+[145]
+source = "bill"
+target = [ "बिल", "विधेयक" ]
+
+[146]
+source = "marriage"
+target = [ "शादी", "विवाह" ]
+
+[147]
+source = "wedding"
+target = [ "शादी", "वेडिंग", "विवाह" ]
+
+[148]
+source = "team"
+target = [ "टीम", "दल" ]
+
+[149]
+source = "relationship"
+target = [ "रिश्ते", "संबंध" ]
+
+[150]
+source = "race (ethnicity)"
+target = [ "दौड़", "रेस", "जाति", "नस्ल" ]
+
+[151]
+source = "sex (the act)"
+target = [ "सेक्स", "यौन संबंध", "यौन", "लिंग" ]
+
+[152]
+source = "sex (gender)"
+target = [ "सेक्स", "यौन संबंध", "यौन", "लिंग" ]
+
+[153]
+source = "murder"
+target = [ "हत्या", "मर्डर" ]
+
+[154]
+source = "prison"
+target = [ "जेल", "कारागार" ]
+
+[155]
+source = "technology"
+target = [ "प्रौद्योगिकी", "तकनीक", "टेक्नोलॉजी" ]
+
+[156]
+source = "energy"
+target = [ "ऊर्जा", "एनर्जी", "उर्जा" ]
+
+[157]
+source = "war"
+target = [ "युद्ध", "युद्घ" ]
+
+[158]
+source = "peace"
+target = [ "शांति", "शान्ति" ]
+
+[159]
+source = "attack"
+target = [ "हमले", "का दौरा पड़ने", "आक्रमण", "दौरा", "अटैक" ]
+
+[160]
+source = "election"
+target = [ "चुनाव", "निर्वाचन", "निवडणूक" ]
+
+[161]
+source = "magazine"
+target = [ "पत्रिका", "मैग्जीन" ]
+
+[162]
+source = "newspaper"
+target = [ "अखबार", "समाचार पत्र" ]
+
+[163]
+source = "poison"
+target = [ "जहर", "विष" ]
+
+[164]
+source = "gun"
+target = [ "बंदूक", "गन" ]
+
+[165]
+source = "sport"
+target = [ "खेल", "स्पोर्ट" ]
+
+[166]
+source = "race (sport)"
+target = [ "दौड़", "रेस", "जाति", "नस्ल" ]
+
+[167]
+source = "exercise"
+target = [ "व्यायाम", "अभ्यास", "कवायद", "कसरत", "प्रयोग" ]
+
+[168]
+source = "ball"
+target = [ "गेंद", "बॉल" ]
+
+[169]
+source = "game"
+target = [ "खेल", "गेम" ]
+
+[170]
+source = "price"
+target = [ "मूल्य", "कीमत", "दाम" ]
+
+[171]
+source = "contract"
+target = [ "अनुबंध", "संविदा", "ठेका", "कॉन्ट्रैक्ट", "करार" ]
+
+[172]
+source = "drug"
+target = [ "दवा", "औषधि", "नशीली दवाओं", "ड्रग", "मादक पदार्थों", "नशीले पदार्थों" ]
+
+[173]
+source = "sign"
+target = [ "साइन", "साइन इन", "हस्ताक्षर", "संकेत", "चिह्न", "हस्ताक्षरित", "प्रवेश" ]
+
+[174]
+source = "science"
+target = [ "विज्ञान", "साइंस" ]
+
+[175]
+source = "God"
+target = [ "भगवान", "परमेश्वर", "ईश्वर", "भगवान ने", "देवता" ]
+
+[176]
+source = "art"
+target = [ "कला", "आर्ट", "एआरटी" ]
+
+[177]
+source = "band"
+target = [ "बैंड" ]
+
+[178]
+source = "song"
+target = [ "गीत", "गाना", "सांग" ]
+
+[179]
+source = "instrument (musical)"
+target = [ "साधन", "लिखत", "इंस्ट्रूमेंट", "वाद्य यंत्र", "यंत्र", "उपकरण", "वाद्य", "औजार" ]
+
+[180]
+source = "music"
+target = [ "संगीत", "म्यूजिक" ]
+
+[181]
+source = "movie"
+target = [ "फिल्म", "मूवी", "चलचित्र" ]
+
+[182]
+source = "beverage"
+target = [ "पेय", "पेय पदार्थ" ]
+
+[183]
+source = "coffee"
+target = [ "कॉफी" ]
+
+[184]
+source = "tea"
+target = [ "चाय" ]
+
+[185]
+source = "wine"
+target = [ "शराब", "वाइन" ]
+
+[186]
+source = "beer"
+target = [ "बियर", "शराब" ]
+
+[187]
+source = "juice"
+target = [ "रस", "जूस" ]
+
+[188]
+source = "water"
+target = [ "पानी", "जल", "वाटर" ]
+
+[189]
+source = "milk"
+target = [ "दूध", "दुग्ध", "मिल्क" ]
+
+[190]
+source = "food"
+target = [ "खाद्य", "भोजन", "खाना", "फूड" ]
+
+[191]
+source = "egg"
+target = [ "अंडे", "अण्डा", "एग", "अंडाणु" ]
+
+[192]
+source = "cheese"
+target = [ "पनीर", "चीज़" ]
+
+[193]
+source = "bread"
+target = [ "रोटी", "ब्रेड" ]
+
+[194]
+source = "soup"
+target = [ "सूप", "शोरबा" ]
+
+[195]
+source = "cake"
+target = [ "केक" ]
+
+[196]
+source = "chicken"
+target = [ "चिकन", "मुर्गी" ]
+
+[197]
+source = "pork"
+target = [ "पोर्क", "सूअर" ]
+
+[198]
+source = "beef"
+target = [ "बीफ", "गोमांस", "मांस" ]
+
+[199]
+source = "apple"
+target = [ "एप्पल", "सेब", "एपल" ]
+
+[200]
+source = "banana"
+target = [ "केले" ]
+
+[201]
+source = "orange"
+target = [ "नारंगी", "ऑरेंज", "संतरा", "नारंगी रंग" ]
+
+[202]
+source = "lemon"
+target = [ "नींबू", "लेमन" ]
+
+[203]
+source = "corn"
+target = [ "मकई", "मक्का", "कॉर्न", "अनाज" ]
+
+[204]
+source = "rice"
+target = [ "चावल", "राइस", "धान" ]
+
+[205]
+source = "oil"
+target = [ "तेल", "ऑयल" ]
+
+[206]
+source = "seed"
+target = [ "बीज" ]
+
+[207]
+source = "knife"
+target = [ "चाकू", "छुरी" ]
+
+[208]
+source = "spoon"
+target = [ "चम्मच", "स्पून" ]
+
+[209]
+source = "fork"
+target = [ "कांटा", "दोराहे", "फोर्क", "शूल" ]
+
+[210]
+source = "plate"
+target = [ "प्लेट", "थाली", "तख़्ता", "प्ल" ]
+
+[211]
+source = "cup"
+target = [ "कप", "प्याला", "कटोरी" ]
+
+[212]
+source = "breakfast"
+target = [ "नाश्ता", "ब्रेकफ़ास्ट" ]
+
+[213]
+source = "lunch"
+target = [ "दोपहर", "लंच", "भोजन" ]
+
+[214]
+source = "dinner"
+target = [ "खाने", "डिनर", "रात्रिभोज", "रात", "भोजन" ]
+
+[215]
+source = "sugar"
+target = [ "चीनी", "शर्करा", "शुगर", "शक्कर", "शकर" ]
+
+[216]
+source = "salt"
+target = [ "नमक", "साल्ट" ]
+
+[217]
+source = "bottle"
+target = [ "बोतल", "बॉटल" ]
+
+[218]
+source = "home"
+target = [ "घर", "होम", "गृह", "मुख पृष्ठ", "घरेलू" ]
+
+[219]
+source = "table"
+target = [ "तालिका", "टेबल", "मेज", "सारणी" ]
+
+[220]
+source = "chair"
+target = [ "कुर्सी", "चेयर", "अध्यक्ष", "कुर्सियों" ]
+
+[221]
+source = "bed"
+target = [ "बिस्तर", "बेड" ]
+
+[222]
+source = "dream"
+target = [ "सपना", "ड्रीम", "स्वप्न", "सपना देखा" ]
+
+[223]
+source = "window"
+target = [ "विंडो", "खिड़की" ]
+
+[224]
+source = "door"
+target = [ "दरवाजा", "द्वार", "डोर" ]
+
+[225]
+source = "bedroom"
+target = [ "बेडरूम", "शयन कक्ष" ]
+
+[226]
+source = "kitchen"
+target = [ "रसोई", "रसोई घर", "किचन" ]
+
+[227]
+source = "bathroom"
+target = [ "बाथरूम", "स्नानघर", "स्नानगृह", "शौचालय" ]
+
+[228]
+source = "pencil"
+target = [ "पेंसिल", "पेन्सिल" ]
+
+[229]
+source = "pen"
+target = [ "पेन", "कलम", "पेण" ]
+
+[230]
+source = "photograph"
+target = [ "तस्वीर", "फोटोग्राफ", "फोटो" ]
+
+[231]
+source = "soap"
+target = [ "साबुन", "सोप" ]
+
+[232]
+source = "book"
+target = [ "पुस्तक", "किताब", "बुक", "आरक्षित" ]
+
+[233]
+source = "page"
+target = [ "पृष्ठ", "पेज", "पन्ने", "पृष्ट", "करेंपृष्ठ" ]
+
+[234]
+source = "key"
+target = [ "कुंजी", "प्रमुख", "चाबी", "महत्वपूर्ण", "मुख्य" ]
+
+[235]
+source = "paint"
+target = [ "पेंट", "रंग", "पेन्ट" ]
+
+[236]
+source = "letter"
+target = [ "पत्र", "अक्षर", "लेटर", "वर्ण" ]
+
+[237]
+source = "note"
+target = [ "नोट", "ध्यान दें", "नोटआप", "ध्यान रखें", "टिप्पणी", "ध्यान" ]
+
+[238]
+source = "wall"
+target = [ "दीवार", "वॉल" ]
+
+[239]
+source = "paper"
+target = [ "कागज", "पेपर", "पत्र", "अखबार", "समाचार पत्र" ]
+
+[240]
+source = "floor"
+target = [ "मंजिल", "फर्श", "तल", "फ्लोर", "जमीन" ]
+
+[241]
+source = "ceiling"
+target = [ "छत", "सीलिंग", "सीमा" ]
+
+[242]
+source = "roof"
+target = [ "छत", "रूफ", "छुएगी" ]
+
+[243]
+source = "pool"
+target = [ "पूल", "बिलियर्ड्स", "तालाब" ]
+
+[244]
+source = "lock"
+target = [ "लॉक", "ताला", "अवरोध", "अवरोधित", "बंद" ]
+
+[245]
+source = "telephone"
+target = [ "टेलीफोन", "दूरभाष", "फोन" ]
+
+[246]
+source = "garden"
+target = [ "गार्डन", "बगीचे", "उद्यान", "बाग़" ]
+
+[247]
+source = "yard"
+target = [ "यार्ड", "गज" ]
+
+[248]
+source = "needle"
+target = [ "सुई" ]
+
+[249]
+source = "bag"
+target = [ "बैग", "थैला" ]
+
+[250]
+source = "box"
+target = [ "बॉक्स", "करेंबॉक्स" ]
+
+[251]
+source = "gift"
+target = [ "उपहार", "गिफ्ट", "तोहफा" ]
+
+[252]
+source = "card"
+target = [ "कार्ड", "ताश" ]
+
+[253]
+source = "ring"
+target = [ "अंगूठी", "रिंग", "छल्", "छल्ले" ]
+
+[254]
+source = "tool"
+target = [ "उपकरण", "टूल" ]
+
+[255]
+source = "clock"
+target = [ "घड़ी", "क्लॉक", "चौबीस घंटे" ]
+
+[256]
+source = "lamp"
+target = [ "दीपक", "लैंप", "चिराग", "लैम्प", "दीप" ]
+
+[257]
+source = "fan"
+target = [ "प्रशंसक", "फैन", "पंखे" ]
+
+[258]
+source = "cell"
+target = [ "सेल", "कक्ष", "कोशिका", "प्रकोष्ठ", "मोबाइल" ]
+
+[259]
+source = "phone"
+target = [ "फोन", "टेलिफोन", "दूरभाष" ]
+
+[260]
+source = "network"
+target = [ "नेटवर्क", "संजाल" ]
+
+[261]
+source = "computer"
+target = [ "कंप्यूटर", "कम्प्यूटर" ]
+
+[262]
+source = "program (computer)"
+target = [ "प्रोग्राम", "कार्यक्रम" ]
+
+[263]
+source = "laptop"
+target = [ "लैपटॉप" ]
+
+[264]
+source = "screen"
+target = [ "स्क्रीन", "परदे" ]
+
+[265]
+source = "camera"
+target = [ "कैमरा" ]
+
+[266]
+source = "television"
+target = [ "टेलीविजन", "टीवी" ]
+
+[267]
+source = "radio"
+target = [ "रेडियो" ]
+
+[268]
+source = "body"
+target = [ "शरीर", "शारीरिक", "बॉडी", "निकाय", "मुख्य" ]
+
+[269]
+source = "head"
+target = [ "सिर", "हेड", "प्रमुख", "प्रधान", "दिमाग" ]
+
+[270]
+source = "neck"
+target = [ "गर्दन", "गले" ]
+
+[271]
+source = "face"
+target = [ "चेहरे", "फेस", "अंकित", "सामना करना पड़ता", "मुँह" ]
+
+[272]
+source = "beard"
+target = [ "दाढ़ी" ]
+
+[273]
+source = "hair"
+target = [ "बाल", "हेयर" ]
+
+[274]
+source = "eye"
+target = [ "आँख", "नेत्र", "नज़र", "आई" ]
+
+[275]
+source = "mouth"
+target = [ "मुँह", "मुख" ]
+
+[276]
+source = "lip"
+target = [ "होंठ", "लिप" ]
+
+[277]
+source = "nose"
+target = [ "नाक" ]
+
+[278]
+source = "tooth"
+target = [ "दाँत", "टूथ" ]
+
+[279]
+source = "ear"
+target = [ "कान" ]
+
+[280]
+source = "tear (drop)"
+target = [ "आंसू", "फाड़" ]
+
+[281]
+source = "tongue"
+target = [ "जीभ", "जबान" ]
+
+[282]
+source = "back"
+target = [ "वापस", "पीठ", "बैक", "पीछे", "वापस आ गया", "वापस आ", "पिछला", "पहले" ]
+
+[283]
+source = "toe"
+target = [ "पैर", "पाँव", "अंगूठे" ]
+
+[284]
+source = "finger"
+target = [ "उंगली", "फिंगर", "अंगुली", "ऊंगली", "उंगलियों" ]
+
+[285]
+source = "foot"
+target = [ "पैर", "फुट", "पैदल" ]
+
+[286]
+source = "hand"
+target = [ "हाथ", "ओर", "तरफ" ]
+
+[287]
+source = "leg"
+target = [ "पैर", "लेग", "टांग" ]
+
+[288]
+source = "arm"
+target = [ "हाथ", "एआरएम", "बांह", "शाखा", "आर्म", "भुजा" ]
+
+[289]
+source = "shoulder"
+target = [ "कंधे" ]
+
+[290]
+source = "heart"
+target = [ "दिल", "हृदय", "हार्ट" ]
+
+[291]
+source = "blood"
+target = [ "रक्त", "खून", "ब्लड", "लोहू" ]
+
+[292]
+source = "brain"
+target = [ "मस्तिष्क", "दिमाग", "ब्रेन" ]
+
+[293]
+source = "knee"
+target = [ "घुटने" ]
+
+[294]
+source = "sweat"
+target = [ "पसीना" ]
+
+[295]
+source = "disease"
+target = [ "रोग", "बीमारी" ]
+
+[296]
+source = "bone"
+target = [ "हड्डी", "अस्थि", "बोन", "हड्डियों" ]
+
+[297]
+source = "voice"
+target = [ "आवाज", "ध्वनि", "वॉइस", "वॉयस", "वाईस" ]
+
+[298]
+source = "skin"
+target = [ "त्वचा", "स्किन" ]
+
+[299]
+source = "nature"
+target = [ "प्रकृति", "स्वभाव", "नेचर", "स्वरूप" ]
+
+[300]
+source = "sea"
+target = [ "समुद्र", "सागर" ]
+
+[301]
+source = "ocean"
+target = [ "महासागर", "सागर", "समुद्र", "ओशन" ]
+
+[302]
+source = "river"
+target = [ "नदी" ]
+
+[303]
+source = "mountain"
+target = [ "पहाड़", "माउंटेन", "पर्वत", "पर्वतीय" ]
+
+[304]
+source = "rain"
+target = [ "बारिश", "वर्षा", "रेन", "बरसात" ]
+
+[305]
+source = "snow"
+target = [ "बर्फ", "हिमपात", "हिम", "स्नो" ]
+
+[306]
+source = "tree"
+target = [ "ट्री", "पेड़", "वृक्ष" ]
+
+[307]
+source = "sun"
+target = [ "सूर्य", "सूरज", "रवि", "सन", "धूप" ]
+
+[308]
+source = "moon"
+target = [ "चाँद", "चंद्रमा", "चन्द्रमा", "मून", "उपग्रह", "चंद्र" ]
+
+[309]
+source = "world"
+target = [ "दुनिया", "विश्व", "वर्ल्ड", "संसार", "जगत" ]
+
+[310]
+source = "Earth"
+target = [ "पृथ्वी", "धरती" ]
+
+[311]
+source = "forest"
+target = [ "वन", "फ़ॉरेस्ट", "जंगल" ]
+
+[312]
+source = "sky"
+target = [ "आकाश", "स्काई", "आसमान" ]
+
+[313]
+source = "plant"
+target = [ "संयंत्र", "पौधे", "प्लांट", "पादप" ]
+
+[314]
+source = "wind"
+target = [ "पवन", "हवा", "विंड", "वायु" ]
+
+[315]
+source = "soil"
+target = [ "मिट्टी", "मृदा", "माती", "धरती", "भूमि" ]
+
+[316]
+source = "earth"
+target = [ "पृथ्वी", "धरती" ]
+
+[317]
+source = "flower"
+target = [ "फूल", "फ्लॉवर", "पुष्प" ]
+
+[318]
+source = "valley"
+target = [ "घाटी", "वैली" ]
+
+[319]
+source = "root"
+target = [ "रूट", "जड़", "मूल" ]
+
+[320]
+source = "lake"
+target = [ "झील", "लेक" ]
+
+[321]
+source = "star"
+target = [ "स्टार", "सितारा", "तारा", "तारांकित", "नक्षत्र" ]
+
+[322]
+source = "grass"
+target = [ "घास", "ग्रास", "जमीनी" ]
+
+[323]
+source = "leaf"
+target = [ "पत्ता", "लीफ" ]
+
+[324]
+source = "air"
+target = [ "हवा", "एयर", "वायु", "हवाई", "आकाशवाणी" ]
+
+[325]
+source = "sand"
+target = [ "रेत", "बालू" ]
+
+[326]
+source = "beach"
+target = [ "समुद्र तट", "बीच" ]
+
+[327]
+source = "wave"
+target = [ "लहर", "वेव", "तरंग" ]
+
+[328]
+source = "fire"
+target = [ "आग", "फायर", "अग्नि" ]
+
+[329]
+source = "ice"
+target = [ "बर्फ", "आइस", "आइसक्रीम" ]
+
+[330]
+source = "island"
+target = [ "द्वीप", "आइलैंड", "टापू", "आईलैंड" ]
+
+[331]
+source = "hill"
+target = [ "हिल", "पहाड़ी", "पर्वतीय" ]
+
+[332]
+source = "heat"
+target = [ "गर्मी", "हीट", "ऊष्मा", "आँच", "ताप" ]
+
+[333]
+source = "material"
+target = [ "सामग्री", "माल", "पदार्थ", "भौतिक" ]
+
+[334]
+source = "glass"
+target = [ "ग्लास", "कांच", "ग्", "शीशे" ]
+
+[335]
+source = "metal"
+target = [ "धातु", "मेटल" ]
+
+[336]
+source = "plastic"
+target = [ "प्लास्टिक" ]
+
+[337]
+source = "wood"
+target = [ "लकड़ी" ]
+
+[338]
+source = "stone"
+target = [ "पत्थर", "स्टोन", "पाषाण" ]
+
+[339]
+source = "diamond"
+target = [ "हीरा", "डायमंड" ]
+
+[340]
+source = "clay"
+target = [ "क्ले", "मिट्टी" ]
+
+[341]
+source = "dust"
+target = [ "धूल" ]
+
+[342]
+source = "gold"
+target = [ "सोने", "गोल्ड", "स्वर्ण" ]
+
+[343]
+source = "copper"
+target = [ "तांबे", "कॉपर" ]
+
+[344]
+source = "silver"
+target = [ "चांदी", "रजत", "सिल्वर" ]
+
+[345]
+source = "measurement"
+target = [ "माप", "मापन", "मेजरमेंट", "नाप" ]
+
+[346]
+source = "meter"
+target = [ "मीटर", "मीट", "मी" ]
+
+[347]
+source = "centimeter"
+target = [ "सेंटीमीटर" ]
+
+[348]
+source = "kilogram"
+target = [ "किलोग्राम" ]
+
+[349]
+source = "inch"
+target = [ "इंच", "गोदी" ]
+
+[350]
+source = "foot"
+target = [ "पैर", "फुट", "पैदल" ]
+
+[351]
+source = "pound"
+target = [ "पौंड", "पाउंड", "पाउण्ड", "आधा किलो", "किलो" ]
+
+[352]
+source = "half"
+target = [ "आधा", "छमाही", "अर्ध", "हाफ़" ]
+
+[353]
+source = "circle"
+target = [ "सर्कल", "वृत्त", "चक्र", "मंडली", "वृत", "घेरे", "गोला" ]
+
+[354]
+source = "square"
+target = [ "वर्ग", "स्क्वायर", "चौकोर", "वर्गाकार", "चौक", "चौराहे" ]
+
+[355]
+source = "temperature"
+target = [ "तापमान" ]
+
+[356]
+source = "date"
+target = [ "दिनांक", "तिथि", "तारीख", "डेट", "पुराना" ]
+
+[357]
+source = "weight"
+target = [ "वजन", "भार", "वेट" ]
+
+[358]
+source = "edge"
+target = [ "किनारे", "बढ़त", "एज", "धार", "बढ़त हासिल", "छोर" ]
+
+[359]
+source = "corner"
+target = [ "कोने", "कॉर्नर" ]
+
+[360]
+source = "math"
+target = [ "गणित", "मठ", "मैथ", "गणितीय" ]
+
+[361]
+source = "map"
+target = [ "नक्शा", "मैप", "मानचित्र" ]
+
+[362]
+source = "dot"
+target = [ "डॉट", "बिंदु" ]
+
+[363]
+source = "consonant"
+target = [ "व्यंजन", "ध्वनि" ]
+
+[364]
+source = "vowel"
+target = [ "स्वर" ]
+
+[365]
+source = "light"
+target = [ "प्रकाश", "लाइट", "हल्की", "रोशनी", "बत्ती" ]
+
+[366]
+source = "sound"
+target = [ "ध्वनि", "साउंड", "आवाज", "लग" ]
+
+[367]
+source = "yes"
+target = [ "हाँ" ]
+
+[368]
+source = "no"
+target = [ "कोई", "नहीं" ]
+
+[369]
+source = "piece"
+target = [ "टुकड़ा", "मोहरा" ]
+
+[370]
+source = "pain"
+target = [ "दर्द", "पीड़ा" ]
+
+[371]
+source = "injury"
+target = [ "चोट" ]
+
+[372]
+source = "hole"
+target = [ "छेद", "होल", "छिद्र" ]
+
+[373]
+source = "image"
+target = [ "छवि", "इमेज", "चित्र" ]
+
+[374]
+source = "pattern"
+target = [ "पैटर्न", "प्रतिमान", "पद्धति", "तर्ज", "स्वरूप", "नमूना" ]
+
+[375]
+source = "noun"
+target = [ "संज्ञा" ]
+
+[376]
+source = "direction"
+target = [ "दिशा", "निर्देशन", "निर्देश" ]
+
+[377]
+source = "top"
+target = [ "शीर्ष", "ऊपरी", "टॉप", "चोटी", "ऊपरी भाग", "सर्वोच्च", "उत्तम" ]
+
+[378]
+source = "bottom"
+target = [ "नीचे", "निचले भाग", "तल", "निचले" ]
+
+[379]
+source = "side"
+target = [ "साइड", "पक्ष", "ओर", "तरफ", "पार्श्व", "बगल", "किनारे", "टीम" ]
+
+[380]
+source = "front"
+target = [ "सामने", "फ्रंट", "मोर्चे", "फ़्रन्ट", "आगे", "अगला" ]
+
+[381]
+source = "back"
+target = [ "वापस", "पीठ", "बैक", "पीछे", "वापस आ गया", "वापस आ", "पिछला", "पहले" ]
+
+[382]
+source = "outside"
+target = [ "बाहर" ]
+
+[383]
+source = "inside"
+target = [ "अंदर" ]
+
+[384]
+source = "up"
+target = [ "अप", "ऊपर", "तक" ]
+
+[385]
+source = "down"
+target = [ "नीचे", "डाउन" ]
+
+[386]
+source = "left"
+target = [ "बाएँ", "छोड़ दिया", "बाईं ओर", "बाईं", "वाम", "बायाँ", "छोड़", "वामपंथी", "बचा", "रह" ]
+
+[387]
+source = "right"
+target = [ "सही", "दाएँ", "अधिकार", "दाईं ओर", "दायाँ", "ठीक", "दाहिने", "ना", "दाईं", "राइट" ]
+
+[388]
+source = "straight"
+target = [ "सीधे" ]
+
+[389]
+source = "north"
+target = [ "उत्तर", "नॉर्थ" ]
+
+[390]
+source = "south"
+target = [ "दक्षिण", "साउथ" ]
+
+[391]
+source = "east"
+target = [ "पूर्व", "ईस्ट", "पूरब" ]
+
+[392]
+source = "west"
+target = [ "पश्चिम", "वेस्ट", "पश्चिमी देशों" ]
+
+[393]
+source = "season"
+target = [ "मौसम", "सीजन", "सत्र" ]
+
+[394]
+source = "Summer"
+target = [ "गर्मियों", "ग्रीष्मकालीन", "गर्मी", "समर", "ग्रीष्म" ]
+
+[395]
+source = "Spring"
+target = [ "वसंत", "स्प्रिंग", "बसंत", "वसंत ऋतु", "झरने" ]
+
+[396]
+source = "Winter"
+target = [ "सर्दियों", "शीतकालीन", "सर्दी", "जाड़े" ]
+
+[397]
+source = "Autumn"
+target = [ "शरद ऋतु", "पतझड़", "शरद" ]
+
+[398]
+source = "Number"
+target = [ "संख्या", "नंबर", "क्रमांक", "नम्बर" ]
+
+[399]
+source = "one"
+target = [ "एक" ]
+
+[400]
+source = "two"
+target = [ "दो", "दोनों" ]
+
+[401]
+source = "three"
+target = [ "तीन" ]
+
+[402]
+source = "four"
+target = [ "चार" ]
+
+[403]
+source = "five"
+target = [ "पांच" ]
+
+[404]
+source = "six"
+target = [ "छह", "छः" ]
+
+[405]
+source = "seven"
+target = [ "सात" ]
+
+[406]
+source = "eight"
+target = [ "आठ", "एट" ]
+
+[407]
+source = "nine"
+target = [ "नौ" ]
+
+[408]
+source = "ten"
+target = [ "दस" ]
+
+[409]
+source = "hundred"
+target = [ "सौ" ]
+
+[410]
+source = "thousand"
+target = [ "हजार" ]
+
+[411]
+source = "thousand"
+target = [ "हजार" ]
+
+[412]
+source = "million"
+target = [ "लाख", "मिलियन", "करोड़", "दस लाख" ]
+
+[413]
+source = "billion"
+target = [ "अरब", "बिलियन" ]
+
+[414]
+source = "Month"
+target = [ "महीने", "माह" ]
+
+[415]
+source = "January"
+target = [ "जनवरी" ]
+
+[416]
+source = "February"
+target = [ "फ़रवरी" ]
+
+[417]
+source = "March"
+target = [ "मार्च" ]
+
+[418]
+source = "April"
+target = [ "अप्रैल", "एप्रिल" ]
+
+[419]
+source = "May"
+target = [ "हो सकता", "मई", "सकता" ]
+
+[420]
+source = "June"
+target = [ "जून" ]
+
+[421]
+source = "July"
+target = [ "जुलाई" ]
+
+[422]
+source = "August"
+target = [ "अगस्त" ]
+
+[423]
+source = "September"
+target = [ "सितम्बर", "सितंबर" ]
+
+[424]
+source = "October"
+target = [ "अक्टूबर", "अक्तूबर" ]
+
+[425]
+source = "November"
+target = [ "नवम्बर", "नवंबर", "सायं" ]
+
+[426]
+source = "December"
+target = [ "दिसम्बर", "दिसंबर" ]
+
+[427]
+source = "Monday"
+target = [ "सोमवार", "सोमबार" ]
+
+[428]
+source = "Tuesday"
+target = [ "मंगलवार", "मग॑लबार" ]
+
+[429]
+source = "Wednesday"
+target = [ "बुधवार", "बुधबार" ]
+
+[430]
+source = "Thursday"
+target = [ "गुरुवार", "बृहस्पतिवार" ]
+
+[431]
+source = "Friday"
+target = [ "शुक्रवार", "फ्राइडे" ]
+
+[432]
+source = "Saturday"
+target = [ "शनिवार", "श्नणिबार" ]
+
+[433]
+source = "Sunday"
+target = [ "रविवार", "रबिबार", "संडे" ]
+
+[434]
+source = "time"
+target = [ "समय", "बार", "टाइम", "काल", "वक्त" ]
+
+[435]
+source = "year"
+target = [ "वर्ष", "साल" ]
+
+[436]
+source = "month"
+target = [ "महीने", "माह" ]
+
+[437]
+source = "week"
+target = [ "सप्ताह", "हफ्ते", "वीक" ]
+
+[438]
+source = "day"
+target = [ "दिन", "दिवस", "दिवसीय", "डे" ]
+
+[439]
+source = "hour"
+target = [ "घंटे" ]
+
+[440]
+source = "minute"
+target = [ "मिनट", "क्षण" ]
+
+[441]
+source = "second"
+target = [ "दूसरा", "सेकंड", "द्वितीय" ]
+
+[442]
+source = "morning"
+target = [ "सुबह", "आज सुबह", "सुप्रभात", "मॉर्निंग", "प्रातः" ]
+
+[443]
+source = "afternoon"
+target = [ "दोपहर" ]
+
+[444]
+source = "evening"
+target = [ "शाम", "संध्या" ]
+
+[445]
+source = "night"
+target = [ "रात", "रात्रि", "नाइट" ]
+
+[446]
+source = "verb"
+target = [ "क्रिया", "वर्ब" ]
+
+[447]
+source = "work"
+target = [ "काम", "कार्य", "वर्क" ]
+
+[448]
+source = "play"
+target = [ "खेलने", "खेलते", "प्ले", "चलायें", "खेल", "निभा", "निभाते", "चलाने", "चलाएँ", "नाटक", "चला" ]
+
+[449]
+source = "walk"
+target = [ "चलना", "चल", "चलते", "वॉक", "सैर", "टहलने", "पैदल" ]
+
+[450]
+source = "run"
+target = [ "चलाने", "चलाएँ", "चला", "चलाते", "रन", "भागो", "चलाया", "करेंचलाएँ", "चला रहे", "संचालित" ]
+
+[451]
+source = "drive"
+target = [ "ड्राइव", "चलाओ", "चालन", "अभियान", "डिस्क" ]
+
+[452]
+source = "fly"
+target = [ "उड़ान भरने", "उड़ना", "मक्खी", "उड़", "फ्लाई", "उड़ाएँ", "फ़्लाय", "उड़ते" ]
+
+[453]
+source = "swim"
+target = [ "तैरना", "तैर", "तैराकी" ]
+
+[454]
+source = "go"
+target = [ "जाना", "जाओ", "जाएँ", "चलते", "जाकर", "जा", "जाते" ]
+
+[455]
+source = "stop"
+target = [ "रोक", "बंद करो", "रोकने", "बंद", "स्टॉप" ]
+
+[456]
+source = "follow"
+target = [ "का पालन करें", "का पालन", "पालन", "अनुसरण", "फ़ॉलो", "पीछे" ]
+
+[457]
+source = "think"
+target = [ "सोचो", "सोचते", "सोचना", "लगता", "सोचता हूँ कि", "सोचता हूँ", "समझते", "विचार" ]
+
+[458]
+source = "speak"
+target = [ "बोलते", "बात", "बोलो", "बोलने" ]
+
+[459]
+source = "say"
+target = [ "कहना", "कहते", "कह", "कहता हूँ", "कहेंगे", "बोलें" ]
+
+[460]
+source = "eat"
+target = [ "खाने", "खा", "खाओ", "खा लो", "खाएं", "खाते", "खाया" ]
+
+[461]
+source = "drink"
+target = [ "पीने", "पेय", "पीते", "पी", "ड्रिंक", "पी लो", "जाम" ]
+
+[462]
+source = "kill"
+target = [ "मारने", "मार", "मार डालते", "हत्या" ]
+
+[463]
+source = "die"
+target = [ "मर", "मरने", "मर जाते", "मरते" ]
+
+[464]
+source = "smile"
+target = [ "मुस्कान", "मुस्कुराओ", "स्माइल", "मुस्कुराहट" ]
+
+[465]
+source = "laugh"
+target = [ "हंसी", "हँसते", "हँसने", "हँसाओ", "हँसेंगे", "हँसाया" ]
+
+[466]
+source = "cry"
+target = [ "रोना", "रो", "रूलाती", "रोता" ]
+
+[467]
+source = "buy"
+target = [ "खरीदने", "खरीद", "खरीदते" ]
+
+[468]
+source = "pay"
+target = [ "भुगतान", "वेतन", "देना", "चुकानी", "अदा", "पै", "देते" ]
+
+[469]
+source = "sell"
+target = [ "बेचने", "बेच", "बेचते", "विक्रय", "बिक्री" ]
+
+[470]
+source = "shoot (a gun)"
+target = [ "गोली मार", "शूट", "शूटिंग", "मारो", "गोली" ]
+
+[471]
+source = "learn"
+target = [ "जानें", "जानने", "सीखना", "सीख", "सीखते", "का तरीका जानें" ]
+
+[472]
+source = "jump"
+target = [ "कूद", "कूदने", "यहां जाईयें", "छलांग", "जंप", "जम्प", "जाएँ" ]
+
+[473]
+source = "smell"
+target = [ "गंध", "बू आ रही", "सूँघो", "बदबू" ]
+
+[474]
+source = "hear (a sound)"
+target = [ "सुन", "सुनने", "सुनते", "सुनाई", "सुनकर" ]
+
+[475]
+source = "listen (music)"
+target = [ "सुनो", "सुनने", "बात सुनो", "सुनते" ]
+
+[476]
+source = "taste"
+target = [ "स्वाद" ]
+
+[477]
+source = "touch"
+target = [ "स्पर्श", "टच", "छूने", "संपर्क", "छू", "छुआ" ]
+
+[478]
+source = "see (a bird)"
+target = [ "देखें", "देखने", "देखते", "दिखाई", "देखेंगे", "देख रहा हूँ", "मिलते" ]
+
+[479]
+source = "watch (TV)"
+target = [ "देखो", "घड़ी", "देखने", "वॉच", "देखते", "नजर" ]
+
+[480]
+source = "kiss"
+target = [ "चुंबन", "चूमो", "चुम्बन", "चूमने" ]
+
+[481]
+source = "burn"
+target = [ "जला", "बर्न", "जलाने" ]
+
+[482]
+source = "melt"
+target = [ "पिघल", "पिगलो" ]
+
+[483]
+source = "dig"
+target = [ "खुदाई", "खोदना", "खोद", "डीआईजी" ]
+
+[484]
+source = "explode"
+target = [ "विस्फोट", "फट" ]
+
+[485]
+source = "sit"
+target = [ "बैठो", "बैठने", "बैठते", "बैठकर" ]
+
+[486]
+source = "stand"
+target = [ "खड़े", "स्टैंड", "खड़े रहो", "खड़े होकर", "रुख", "बर्दाश्त" ]
+
+[487]
+source = "love"
+target = [ "प्यार", "प्यार करता हूँ", "प्रेम", "लव", "तुमसे प्यार करता हूँ" ]
+
+[488]
+source = "pass"
+target = [ "गुजारें", "पारित", "पास", "दर्रा", "गुजरती", "उत्तीर्ण", "गुजरना", "देना" ]
+
+[489]
+source = "cut"
+target = [ "कट", "कटौती", "काट दिया", "काटने" ]
+
+[490]
+source = "fight"
+target = [ "लड़ने", "लड़ाई", "लड़ो", "लड़ते", "झगड़ा" ]
+
+[491]
+source = "lie"
+target = [ "झूठ", "लेट", "झूठ बोल", "झूठ बोलना" ]
+
+[492]
+source = "down"
+target = [ "नीचे", "डाउन" ]
+
+[493]
+source = "dance"
+target = [ "नृत्य", "डांस", "नाचना", "नाचते", "नाच" ]
+
+[494]
+source = "sleep"
+target = [ "नींद", "सो", "स्लीप", "सो जाओ", "सोने", "सुप्त", "सोते", "निष्क्रीय" ]
+
+[495]
+source = "wake"
+target = [ "जागो", "वेक", "मद्देनजर", "जगाने" ]
+
+[496]
+source = "up"
+target = [ "अप", "ऊपर", "तक" ]
+
+[497]
+source = "sing"
+target = [ "गाना", "गाते", "गाओ", "गा", "गाया" ]
+
+[498]
+source = "count"
+target = [ "गिनती", "गणना", "गिनने", "गिन", "काउंट", "भरोसा", "संख्या" ]
+
+[499]
+source = "marry"
+target = [ "शादी" ]
+
+[500]
+source = "pray"
+target = [ "प्रार्थना" ]
+
+[501]
+source = "win"
+target = [ "जीत", "जीतने", "विन" ]
+
+[502]
+source = "lose"
+target = [ "खो", "खोना", "खो देते", "हार", "हारना", "खो दिया" ]
+
+[503]
+source = "mix"
+target = [ "मिश्रण", "मिक्स", "मिलाएँ", "मिला" ]
+
+[504]
+source = "stir"
+target = [ "हलचल", "हिलाओ" ]
+
+[505]
+source = "bend"
+target = [ "मोड़", "बेंड", "झुकना" ]
+
+[506]
+source = "wash"
+target = [ "धोने", "धो", "धो लो", "वॉश", "धोकर", "धोइये", "धोएँ", "धुलाई" ]
+
+[507]
+source = "cook"
+target = [ "कुक", "पकाना", "खाना बनाना", "महाराज", "पकाएँ", "खाना", "बावर्ची" ]
+
+[508]
+source = "open"
+target = [ "खोलें", "खोलने", "ओपन", "खोलते", "खुले हुए", "मुक्त" ]
+
+[509]
+source = "close"
+target = [ "बंद", "करीब", "पास", "करेंबंद करें", "निकट", "नज़दीक", "घनिष्ठ", "बंद करो" ]
+
+[510]
+source = "write"
+target = [ "लिखने", "लिखें", "लिखते" ]
+
+[511]
+source = "call"
+target = [ "कॉल", "फोन", "बुलाओ", "कहते", "बुलाने", "कह" ]
+
+[512]
+source = "turn"
+target = [ "बारी", "मुड़ें", "चालू", "बदल", "बदल जाते", "बंद" ]
+
+[513]
+source = "build"
+target = [ "निर्माण", "बिल्ड", "बनाने", "बनाएँ", "निर्मित", "बना" ]
+
+[514]
+source = "teach"
+target = [ "सिखाने", "सिखा", "पढ़ाने", "सिखाओ", "सिखाते", "सिखाया" ]
+
+[515]
+source = "grow"
+target = [ "बढ़ने", "विकसित", "बढ़ती", "बढ़ाएँ", "आगे बढ़ें", "बड़े", "बढ़", "विकास", "वृद्धि", "जाना" ]
+
+[516]
+source = "draw"
+target = [ "आकर्षित", "ड्रा", "आरेखित", "खींचना", "दिलाना", "आकर्षण", "खींचें" ]
+
+[517]
+source = "feed"
+target = [ "फ़ीड", "खिलाओ", "खिलाने", "चारा" ]
+
+[518]
+source = "catch"
+target = [ "पकड़ने", "पकड़", "कैच" ]
+
+[519]
+source = "throw"
+target = [ "फेंक", "फेंक देते", "फेंकने", "हिला" ]
+
+[520]
+source = "clean"
+target = [ "साफ", "स्वच्छ", "क्लीन", "सफाई" ]
+
+[521]
+source = "find"
+target = [ "ढूँढें", "मिल", "खोजने", "खोजें", "ढूँढने", "पा", "मिल जाए", "पता", "का पता लगाएं", "लगता", "प्राप्त" ]
+
+[522]
+source = "fall"
+target = [ "गिर", "गिरावट", "पतन", "गिर जाते", "गिरने", "आते", "पड़ना", "जाते" ]
+
+[523]
+source = "push"
+target = [ "धक्का", "पुश", "धकेलें", "बढ़ाने" ]
+
+[524]
+source = "pull"
+target = [ "खींच", "पुल", "खींचने", "खींचतान", "हटा", "निकाल" ]
+
+[525]
+source = "carry"
+target = [ "ले", "कैर्री", "ले जाने", "उठाने", "लेकर", "जारी", "उठा" ]
+
+[526]
+source = "break"
+target = [ "तोड़", "तोड़ने", "विराम", "ब्रेक", "भंग", "टूट", "टूट गया" ]
+
+[527]
+source = "wear"
+target = [ "पहनने", "पहनते", "पहन", "वस्त्र", "यहूदीय" ]
+
+[528]
+source = "hang"
+target = [ "लटका", "हैंग", "रुको", "रखती", "फांसी", "लटकना", "हैंगअप", "रहना", "निकलना" ]
+
+[529]
+source = "shake"
+target = [ "हिला", "शेक", "हिलाएँ", "हिलाओ", "मिलाने", "मिलाओ", "हिलाना" ]
+
+[530]
+source = "sign"
+target = [ "साइन", "साइन इन", "हस्ताक्षर", "संकेत", "चिह्न", "हस्ताक्षरित", "प्रवेश" ]
+
+[531]
+source = "beat"
+target = [ "हरा", "मारो", "हराया", "हराकर", "धड़कन" ]
+
+[532]
+source = "lift"
+target = [ "लिफ्ट", "उठा", "उठाने", "उठाएँ" ]
+
+[533]
+source = "adjective"
+target = [ "विशेषण" ]
+
+[534]
+source = "long"
+target = [ "लंबी", "लंबे समय", "लांग", "लम्बी", "देर", "तक" ]
+
+[535]
+source = "short (vs long)"
+target = [ "लघु", "कम", "छोटे", "संक्षेप", "शॉर्ट", "संक्षिप्त", "थोड़े" ]
+
+[536]
+source = "tall"
+target = [ "लंबा", "ऊँचा" ]
+
+[537]
+source = "short (vs tall)"
+target = [ "लघु", "कम", "छोटे", "संक्षेप", "शॉर्ट", "संक्षिप्त", "थोड़े" ]
+
+[538]
+source = "wide"
+target = [ "वाइड", "विस्तृत", "व्यापक", "चौड़े", "व्यापी", "विस्तारित" ]
+
+[539]
+source = "narrow"
+target = [ "संकीर्ण", "सँकरा", "नैरो", "सीमित", "संकुचित", "संक्षिप्त" ]
+
+[540]
+source = "big"
+target = [ "बड़ा", "बिग" ]
+
+[541]
+source = "large"
+target = [ "बड़े", "विशाल" ]
+
+[542]
+source = "small"
+target = [ "छोटे", "छोटा सा", "लघु" ]
+
+[543]
+source = "little"
+target = [ "छोटे", "थोड़ा", "लिटिल", "सा", "छोटी सी", "कम" ]
+
+[544]
+source = "slow"
+target = [ "धीमी", "धीरे", "स्लो" ]
+
+[545]
+source = "fast"
+target = [ "फास्ट", "तेज", "उपवास", "जल्दी", "तीव्र", "व्रत" ]
+
+[546]
+source = "hot"
+target = [ "गर्म", "हॉट" ]
+
+[547]
+source = "cold"
+target = [ "ठंड", "शीत", "सर्दी", "कोल्ड" ]
+
+[548]
+source = "warm"
+target = [ "गर्म", "गर्मजोशी", "गुनगुने", "उष्ण", "हार्दिक" ]
+
+[549]
+source = "cool"
+target = [ "शांत", "कूल", "ठंडा", "अच्छा", "वाह" ]
+
+[550]
+source = "new"
+target = [ "नए", "नई", "नया", "नव", "करेंनया" ]
+
+[551]
+source = "old (new)"
+target = [ "पुराने", "बूढ़े", "ओल्ड" ]
+
+[552]
+source = "young"
+target = [ "युवा", "जवान", "यंग" ]
+
+[553]
+source = "old (young)"
+target = [ "पुराने", "बूढ़े", "ओल्ड" ]
+
+[554]
+source = "good"
+target = [ "अच्छा", "गुड", "बढि़या", "शुभ" ]
+
+[555]
+source = "bad"
+target = [ "बुरा", "खराब", "गलत" ]
+
+[556]
+source = "wet"
+target = [ "गीला", "भीग", "भीगना" ]
+
+[557]
+source = "dry"
+target = [ "सूखी", "शुष्क", "ड्राई" ]
+
+[558]
+source = "sick"
+target = [ "बीमार", "रुग्ण" ]
+
+[559]
+source = "healthy"
+target = [ "स्वस्थ", "स्वास्थ्यकर" ]
+
+[560]
+source = "loud"
+target = [ "जोर", "ऊंचे" ]
+
+[561]
+source = "quiet"
+target = [ "शांत", "चुप", "क्वायट", "चुप रहो" ]
+
+[562]
+source = "happy"
+target = [ "खुश", "हैप्पी", "मुबारक", "मुबारक हो", "सुखी", "प्रसन्न", "जन्मदिन", "सुखद" ]
+
+[563]
+source = "sad"
+target = [ "उदास", "दुखद", "दुखी" ]
+
+[564]
+source = "beautiful"
+target = [ "सुंदर", "खूबसूरत", "सुन्दर" ]
+
+[565]
+source = "ugly"
+target = [ "बदसूरत", "कुरूप", "वीभत्स", "भद्दा" ]
+
+[566]
+source = "deaf"
+target = [ "बहरा", "बधिर" ]
+
+[567]
+source = "blind"
+target = [ "अंधा", "ब्लाइंड", "नेत्रहीन", "दृष्टिहीन" ]
+
+[568]
+source = "nice"
+target = [ "अच्छा", "नाइस", "नीस" ]
+
+[569]
+source = "mean"
+target = [ "मतलब", "माध्य", "अर्थ", "तात्पर्य" ]
+
+[570]
+source = "rich"
+target = [ "अमीर", "रिच", "समृद्ध", "धनी", "संपन्न", "युक्त", "भरपूर" ]
+
+[571]
+source = "poor"
+target = [ "गरीब", "बेचारी", "खराब", "निर्धन", "कमज़ोर" ]
+
+[572]
+source = "thick"
+target = [ "मोटी", "थिक", "घने", "गाढ़ा", "स्थूल" ]
+
+[573]
+source = "thin"
+target = [ "पतली", "तनु", "थिन" ]
+
+[574]
+source = "expensive"
+target = [ "महंगा", "खर्चीला" ]
+
+[575]
+source = "cheap"
+target = [ "सस्ते" ]
+
+[576]
+source = "flat"
+target = [ "फ्लैट", "सपाट", "समतल", "पिरामिड" ]
+
+[577]
+source = "curved"
+target = [ "घुमावदार", "वक्र", "वक्रीय", "वक्रित", "मुड़े" ]
+
+[578]
+source = "male"
+target = [ "पुरुष", "नर", "माले", "पुस्र्ष" ]
+
+[579]
+source = "female"
+target = [ "महिला", "मादा", "स्त्री" ]
+
+[580]
+source = "tight"
+target = [ "तंग", "टाइट", "चुस्त", "कसकर", "कस" ]
+
+[581]
+source = "loose"
+target = [ "ढीला", "लूज़", "घटाना", "खो", "शिथिल" ]
+
+[582]
+source = "high"
+target = [ "उच्च", "हाई", "ऊंची", "अधिक" ]
+
+[583]
+source = "low"
+target = [ "कम", "न्यून", "निम्न" ]
+
+[584]
+source = "soft"
+target = [ "नरम", "मुलायम", "शीतल", "सॉफ्ट", "कोमल", "मृदु" ]
+
+[585]
+source = "hard"
+target = [ "हार्ड", "मुश्किल", "कठिन", "कड़ी मेहनत", "मेहनत", "कठोर", "कड़ी" ]
+
+[586]
+source = "deep"
+target = [ "गहरी", "दीप", "डीप", "गहन", "गहराई" ]
+
+[587]
+source = "shallow"
+target = [ "उथले" ]
+
+[588]
+source = "clean"
+target = [ "साफ", "स्वच्छ", "क्लीन", "सफाई" ]
+
+[589]
+source = "dirty"
+target = [ "गंदा", "डर्टी", "आकस्मिक" ]
+
+[590]
+source = "strong"
+target = [ "मजबूत", "सशक्त", "प्रबल", "दृढ़", "शक्तिशाली" ]
+
+[591]
+source = "weak"
+target = [ "कमजोर" ]
+
+[592]
+source = "dead"
+target = [ "मृत", "मर चुका", "मर", "मरे हुए", "मरे हुओं", "मृतकों", "डेड", "मारे गए" ]
+
+[593]
+source = "alive"
+target = [ "जिंदा", "जीवित", "मुर्दा", "रखें", "सजीव" ]
+
+[594]
+source = "heavy"
+target = [ "भारी", "हेवी" ]
+
+[595]
+source = "light (heavy)"
+target = [ "प्रकाश", "लाइट", "हल्की", "रोशनी", "बत्ती" ]
+
+[596]
+source = "dark"
+target = [ "अंधेरे", "डार्क", "काले", "गहरे", "गहरे रंग" ]
+
+[597]
+source = "light (dark)"
+target = [ "प्रकाश", "लाइट", "हल्की", "रोशनी", "बत्ती" ]
+
+[598]
+source = "nuclear"
+target = [ "परमाणु", "नाभिकीय", "न्यूक्लियर" ]
+
+[599]
+source = "famous"
+target = [ "प्रसिद्ध", "मशहूर" ]

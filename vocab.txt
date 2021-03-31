@@ -1,0 +1,818 @@
+- आसान : easy
+- रंन : color
+- फल : fruit
+- घर :‌ home
+- पानी : water
+- कब : when
+- पॆसा : money
+- हर : fear
+- मत : do not
+- इधर : here
+- यहं :‌ here
+- वहं :‌ there
+- उधर : there
+- चमक : shine
+- नमक : salt
+- कलम : pen
+- कमल : lotus
+- गरम : hot
+- शहद : honey
+- शहर : city
+- नगर : city
+- नदी : river
+- नहर : river
+- बरतन : kitchen utensils
+- थरमस : thermos
+- करवट : turn
+- खटपट : argument
+- बचपन : childhood
+- अदरक : ginger
+- कटहल : jackfruit
+- मखमल : soft (clothes)
+- शरबत : (cold) drink
+- अब तक : until now
+- कर : car
+- गड़ी : car
+- मित्र : friend
+- साबन : soap
+- फूल : flower
+- पॆर : leg
+- पॆड़ : tree
+- अखली : mortle and pestle (?)
+- नॊका : boat
+- आदमी :‌ man
+- ऒरत : woman
+- ऒरतॆं : women
+- लहसन : garlic
+- पहला : first
+- दुसरा : second
+- तीसरा : third
+- चाथा : fourth
+- पांचवां : fifth
+- छठा : sixth
+- सवाल : question
+- जवाब : answer
+- पुछना : to ask
+- महीना : month
+- महीने : months
+- आना :‌ to know (r)
+- लाल :‌ red
+- पीला :‌ yellow
+- नीला : blue
+- काला :‌ black
+- सफेद :‌ white
+- भूरा : brown
+- हरा :‌ green
+- बॆंगनी :‌ violet
+- संतरी :‌ orange
+- गुलाबी :‌ pink
+- सलेटी :‌ gray
+- महरा :‌ dark
+- हलका : light
+- चमकीला :‌ shiny
+- जानवर/जावरों : animal
+- घोड़ा/घोड़ें :‌ horse
+- कुत्ता/कुत्ते :‌ dog (m)
+- कुत्ती/कुत्तयां :‌ dog (f)
+- अजगर : python
+- गधा/गधे : donkey
+- गांय/गाऎ :‌ cow
+- बॆल/बॆले : bull
+- चुहा/चुहे : rat
+- खच्चर :‌ mule
+- बिल्ला : cat
+- पिल्ला : puppy
+- चींटी : ant
+- मुर्गा/मुर्गी : chicken
+- छिपकली :‌ lizard
+- मकड़ा  : big spider
+- मकड़ी : small spider
+- बंदर/बंदरी :‌ monkey (m)
+- बंदरी/बंदरियां : monkey (f)
+- बकरा/बकरे : goat (m)
+- बकरी/बकरियां :‌ goat (f)
+- गिलहरी :‌ squirrel
+- मछली :‌ fish
+- शेर/शरनी : lion
+- मोर/मोरनी :‌ peacock
+- भालु : bear
+- मच्छर :‌ mosquito
+- हाथी : elephant
+- कहनी : story
+- सुखी : happy
+- दुखी : sad
+- लगना :‌ to feel
+- परेशान :‌ unsettled
+- उत्सुक : excited
+- मुशिकल : difficult
+- बुख :‌ hungry
+- मोटा :‌ fat
+- पतली : skinny
+- सेवा : volunteer service
+- जान :‌ life
+- कलाकार : artist
+- आना : to come
+- पढ़ना : to read/study
+- जाना : to go
+- जागना : to wake up
+- सोना : to sleep
+- खाना : to eat
+- चलाना : to drive/use a vehicle
+- चलना : to walk
+- देखना : to see/watch
+- करना : to do
+- चय : tea
+- या :‌ or
+- ऒर :‌ and
+- ओर : more
+- साफ :‌ clean
+- गांदा :‌ dirty
+- पारी : kiss
+- चोट : injury
+- साथी : roommate
+- उल्टी : vomit
+- कभी-कभी : sometimes
+- मॆं : I
+- आप : you (formal)
+- तुम :‌ you (informal)
+- वह : he/she (far)
+- यह : he/she (close)
+- हम : we
+- वे : they (far)
+- ये : they (close)
+- कम‌ :‌ less
+- ज़्यादा : more
+- थोड़ा : a little
+- बहुत :‌ a lot
+- पास : near
+- दूर : far
+- जळी : fast
+- धोरे :‌ slow
+- बायां : left
+- दायां : right
+- सीधा : straight
+- मुड़ :‌ turn
+- उत्तर :‌ North
+- पश्चिम : West
+- पूर्व : East
+- दक्षिण : South
+- मध्य :‌ central
+- कोई : someone
+- कुछ : something
+- कॊन : who
+- क्या : what
+- जो : when
+- सो : then
+- खुद : oneself
+- स्वयं :‌ oneself
+- समझना : to understand
+- दोवारा : repeat
+- वार : time (eg, vez)
+- विशेषण : adjective
+- शरीर :‌ body
+- देह : body
+- तन : body
+- पानी : water
+- जल : water
+- नीर : water
+- कोध : angry
+- गुस्सा : angry
+- आक्रश : angry
+- ईश्वर : God
+- भगबान : God
+- प्रभु : God
+- परमात्मा : God
+- प्रेम : love
+- प्यार : love
+- स्नेह : love
+- खरीदना : to buy
+- धीर धीर : slower
+- बच्चा :‌ child
+- स्कुल : school
+- आप दोनो : both of you
+- वाला : related to
+- आगे : next
+- चयवाला : tea seller
+- देश : country
+- समेत देश : the whole country?
+- छुट्ट वाले दिन : weekend
+- छुट्ट : holiday
+- ससुराल : in laws
+- पॆहना : to wear
+- जळी :‌ hurry
+- भुखा : hurry
+- पढ़ना : to read/study
+- सामान : baggage
+- पहुंचाना : deliver
+- कम : less
+- ज़्यादा : more
+- सोना : to sleep
+- सुन्ना‌ : to hear
+- छिना : to snatch
+- बनना : to become
+- अभी तक : still
+- नहीं तो : otherwise
+- का : ~of
+- को : ~to
+- तक : up to, as far as
+- पर : on, at
+- में : in
+- से : from
+- लिए : for
+- बाज़ार : market
+- सकना : to be able to
+- पक्षी : bird
+- पक्षियों : birds
+- चिड़ियां : sparrow
+- चिड़ा : sparrow
+- कॊआ : crow
+- कॊए : crow
+- कबूतर : pigeon (m)
+- कबूतरी : pigeon (f)
+- बत्तख : duck
+- मोर : peacock (m)
+- मोरनी : peacock (f)
+- तोता : parrot (m)
+- तोती : parrot (f)
+- ईल : eagle
+- मुर्गा : chicken (m)
+- मुर्गी : chicken (f)
+- हिन्दू : Hindu
+- शिव : Shiv (p. Parvati)
+- पार्वती : Parvati (p. Shiv)
+- विष्णु : Vishnu (p. Lakshmi)
+- लक्ष्मी : Lakshmi (p. Vishnu)
+- ब्रहमा : Brahma (p. Sarsvati)
+- सरस्वती : Sarsvati (p. Brahma)
+- गणेश : Ganesh (c. Shiv + Parvati)
+- कार्तिक : Kartik (c. Shiv + Parvati)
+- राम : Ram (Vishnu avatar)
+- सीता : Seeta (Lakshmi avatar)
+- अवतार : avatar (mortal form of Gods)
+- कृष्ण : Krishna (Vishnu avatar)
+- राधा : Radha (p. Krishna)
+- हनुमान : Hanuman
+- कहनी : story
+- गेहूं : wheat
+- रहित : without
+- बसम : chickpea flour
+- आटा : flour
+- मककी : corn
+- जीतना : to win
+- हारना : to lose
+- खिलाड़ी : player
+- आश्चर्य : surprise
+- तिरक्की हो : best wishes
+- अरे : (surprise expression)
+- ओह : (surprise expression)
+- ओहो : (surprise expression)
+- एं : (surprise expression)
+- क्या : (surprise expression)
+- वाह : (surprise expression)
+- हां : yes
+- हाजी : (agreement expression)
+- अच्छा : nice!; good!
+- ठीक : okay
+- नहीं : no
+- हटो : (disagreement expression)
+- छि :  (disagreement expression)
+- धिक्कार : (disagreement expression; cultural disaproval)
+- शाबाश : praise; good job
+- बधाई हो : congratulations
+- जीते रहो : blessing
+- चेवावनी : warning
+- सावधान : caution
+- रूको : warning
+- खबरदार : warning
+- चुप : sssshh
+- अफसोस : sorrow
+- उफ : sorrow
+- हराम : forbidden
+- गहरा पानी : deep water
+- बुरा : bad
+- मुझे माफ कीजिए : I am  sorry
+- जन्मदिन मुबारक : Happy Birthday!
+- जन्मदिन की व्धाई हो : Happy Birthday!
+- साल : year
+- सालगिरह : anniversary
+- तारा : stars
+- चांद्र : Moon
+- सुर्य : Sun
+- सुराज : Sun
+- रात : night
+- शाम : evening
+- अदले का बदला : tit for tat
+- आंखों का तारा : very dear (starry eyes!)
+- एक ऒर एक ग्यारह :  Many hands make light work  (one and one make eleven)
+- एक चुप सॊ सुख : An argument can resolve if people quiet down (one quiet a hundred happy)
+- रात गई बात गई : Sleeping on it will solve argument (night passes, argument passes)
+- जले पर नमक छिड़कना : Rub salt on the wound
+- नींद हराम होना : Cannot sleep
+- मुर्दे उखाड़ना : beat a dead horse (dig up a dead body)
+- अपने घर में‌ कुत्ता भी शेर होना हॆ‌ : A dog knows its place in the house
+- रोगंटे खड़े होना : Goose bumps
+- सांच को आंच नहीं : Honest person is not afraid
+- बाज की नज़र : sharp eyes
+- कान कच्चे होना : sharp ears
+- डरना : to be scared
+- अपना : refering to oneself
+- खिलॊना : toy
+- छोटा-सा : very small
+- साथ-साथ : together
+- बगिचा : garden
+- फूल : flower
+- गुलाबी : rose
+- आसमान : sky
+- तितली : butterfly
+- पंखे : wings
+- घास : grass
+- भालू : bear
+- बॆठे : sitting
+- नर्म : soft
+- बातें : things
+- लो : take!
+- लगना‌ : to feel
+- ऊपर : up
+- थक : tired
+- सुबह : morning
+- मछली : fish
+- थककर : tired
+- पॆदल : on foot
+- अचानक : suddenly
+- बीच : between
+- सागर : sea
+- बुलबले : bubbles
+- चट्टाने : rock
+- चॊंकी : startle
+- खुल : open
+- बंद : closed
+- सपना‌ : to dream
+- ढेर : pile
+- पहले : earlier
+- महिना : month
+- गाना : to sing
+- मीठा :  sweet
+- चीनी : sugar
+- तेल : oil
+- नमक : salt
+- नमकीन : salty
+- गिलास : glass
+- चाकू : knife/knives
+- चम्मच/चम्मचें : spoon
+- बोतल : bottle
+- ग्रह : planet/planets
+- बुध : Mercury
+- शक्र : Venus
+- पृथ्वी : Earth
+- मगल : Mars
+- बृहस्पति : Jupiter
+- शनि : Saturn
+- युरेनस : Uranus
+- नेप्चून : Neptune
+- परिधान : outfit
+- विशेष : special
+- सामान्य : common/informal
+- साड़ी : sari
+- सूती साड़ी : cotton sari
+- रेश्मी‌ : silk
+- लहंगा : lahanga, sort of a dres
+- सलवार-कमीज़ : salvar kameez
+- बुरका : burka
+- धोती : dhoti
+- कुर्ता : kurta
+- पजामी/पजामा : pants
+- पगड़ी : male wedding turban
+- दुप्पटा-सलवार कमीज़ : ladies sari
+- लुंगी : loongi, pants
+- आसमानी : sky blue
+- डालाना : to put on
+- वकील : lawyer
+- काला सूट : black suit
+- पुलिस : police
+- खाखी :‌ khakhi
+- खादी :
+- के बिना : without
+- किसका : which
+- मकान : house
+- बोनों : both
+- जानना : to know
+- गाना : song
+- सुनना‌ : to listen
+- रोना : to cry
+- सब : all/everyone
+- हंंसना : to laugh
+- पतला :‌ thin
+- नदी : river
+- जवान : young
+- खड़ा : standing
+- आधा : half
+- महंंगा : expensive
+- ज़मीन : ground
+- दीवार : wall
+- खलना : to play
+- खेल : game
+- बताना : to tell
+- दवई : medicine
+- बुखार : fever
+- समय : time
+- के बात सुनना : to listen to
+- के बात करना : to talk with
+- कोई : someone
+- भाषा :‌ language
+- देश : country
+- कमाना‌ : to make money
+- गरीब : poor
+- फुले ने समाना : to be very happy
+- उड़ना : to fly
+- सारा धन : money
+- सुबकना : to sob
+- आखें खोल देना : figure out for oneself
+- मेहनत : hard work
+- केवल : only
+- था : or
+- कब : when
+- कहांं : where
+- क्यों‌ : why
+- कॊन : who
+- किसका‌ : whose
+- कितने : how much/how many
+- क्रिकेट : cricket
+- टेनिस : tennis
+- यत्रा : travel
+- तीर्थ यत्रा : pilgrimage
+- वजह : reason
+- प्रेमिका : beloved (f)
+- मिलना : to meet
+- लेखक : writer
+- लिखना‌‌ :‌ to write
+- शिक्षक :‌ teacher
+- कबिता‌ : poem
+- सही : correct
+- गलत : wrong
+- पढ़ाना : to teach
+- आसान : easy
+- दोड़ना : to run
+- ज़्यादा : more
+- बहतर : better
+- तेज़ : fast
+- नाचना : to dance
+- के साथ : together
+- के अंदर : inside
+- के तरफ : towards
+- के सामने : opposite
+- के आगे : in front of
+- के पीछे : behind
+- के ऊपर : on top of
+- के नीचे : underneath
+- के बाद : after
+- के पहले : before
+- के पास : near/have
+- से दूर : far from
+- के बारे में‌ : about/concerning
+- के दॊरान : during
+- के बीच में‌ : in between
+- के बाहर : outside
+- कुछ : something
+- चलाना : to use a machine (to ride)
+- थॆला : bag
+- इंतज़ार : waiting
+- पड़ा : lying (on ground)
+- शरम : shame
+- सेस्ता : cheap
+- आनेदों : smile
+- उपहार : gift
+- स्वादी : tasty
+- प्याज़ : onion
+- हुआ/हुई : happened
+- इकट्ठे : assembled
+- वान गाया : cooked
+- दाल : lentils
+- जब/तब : when/then
+- अध्यापिका : teacher
+- सुख्य : main/principle
+- राष्ट्र : national
+- राष्ट्रपति : president
+- मुंद्रा : currency
+- समुद्र : sea
+- समुद्र तट : beach
+- तट किनारा : shore
+- साफ : clean
+- प्रेमी : beloved (m)
+- कपड़े : clothes
+- कपड़ा : cloth
+- एक ऒर : another
+- सिफ : only
+- श्री : shree
+- पंख : feathers
+- चोच : beak
+- कलगी : head feathers
+- भदेद : ugly
+- भधर आवाज़ : nice voice
+- मानसाहारी : meat eater
+- शाकाहारी : vegetarian
+- संध्या : sunset
+- सलहन करना : to roost
+- तॆरना‌ : to swim
+- लड़ना : to fight
+- चिल्लाना‌ : to screech
+- पालतू : pet
+- दुलारना : to pet
+- आकषक : cute
+- प्यारा : cute
+- नाराज़ : angry
+- बारंबार : frequently
+- समुर : fur
+- घुरघुराना : to purr
+- घुरना : to purr
+- नाराज़ : angry
+- पालतू जानवर : pets
+- सीधा : straight
+- मुड़/मुड़ी : turn
+- मड़ना‌ : to turn
+- टककर :  collision
+- रोकना‌ :  to stop
+- बारिश : rain
+- रेंगना : to crawl (animal)
+- रिड़ना : to crawl (human)
+- पाना‌ : to get/know
+- जड़ : root
+- आंकार : form/type
+- उगने : grow
+- लगांतार : regularly
+- सब्ज़ियां : vegetables
+- बीज : seed
+- दाने : seeds
+- धोना‌ : to wash
+- धो : wash
+- काट करना : to cut
+- पकाना : to cook
+- बिस्तर : bed
+- पत्तेदार : related to leaves
+- शिमला‌ मिर्च : capsicum
+- पॊधों : bush
+- छिलका : rind
+- चिल्लाना‌ : to cry out
+- फट : torn
+- ताकत : strong
+- कमज़ोर : weak
+- खुश : happy
+- उदास : sad
+- अच्छा : good
+- बुरा : bad
+- साफ : clean
+- गंदा‌ : dirty
+- सफल : successful
+- असफल : failed
+- निडर : not afraid
+- डर : afraid
+- मान : reputation
+- अपमान : insult
+- सुख : happy
+- दुख : sad
+- दर्द : pain
+- टूट‌ : broken
+- बेचॆन : anxiety
+- परेशान : anxious
+- चिंता : worry
+- चिंतित : worried
+- हॆरान : surprised
+- भाच्चका‌ : surprised
+- प्यासा : thirsty
+- गुस्सा : angry
+- डांट : scolding
+- पड़ना‌‌ : to lie down/fall
+- शोर : noisy
+- सीखना‌ : to learn
+- कक्षा‌‌ : class
+- झगड़ा करना‌‌ : to fight
+- मन :‌ feeling in heart/mind
+- मन पसंद : favorite
+- घिन्ना : disgusted
+- स्थान : place
+- जगह : place
+- घबराया : nervous
+- नया/नई : new
+- पुरानी : old
+- इसीलिए : so
+- शायद : perhaps
+- समझदार : mature
+- काफी : more
+- थोड़ा : a little
+- सामान : same
+- एक जॆसा : exactly the same
+- ताकतवर : stronger
+- ईमानदार : honest
+- भारी : heavy
+- उम्मीदवार : candidate
+- चुस्त : smart/cunning
+- धीमा : slower
+- तॆज़ : fast
+- जळी : fast
+- होशियार : smart/book smart
+- मोटा : fat
+- चंदी : silver
+- सूना : gold
+- शब्द : word
+- सफ : all
+- सोचना‌ : to think
+- नहाना : to bathe/shower
+- प्रदर्शन : performance
+- ग्रेह प्रवेश : house warming
+- शांत : calm
+- संतुश : calm
+- सुन्दर : beautiful
+- खुबसुरत : beautiful
+- सॊंदर्य : beautiful
+- मनोहर : beautiful
+- लड़की : girl
+- स्त्री : girl
+- नारी : girl
+- कन्या : girl
+- लड़का : boy
+- पुरूष : boy
+- नार : boy
+- लेंकड़ा : boy
+- पुत्री : daughter
+- बेटी‌ : daughter
+- पुत्र : son
+- बेटा‌‌‌ : son
+- शरीर : body
+- तन : body
+- जिस्म : body
+- देह : body
+- अंग : body
+- हंसी : laughter
+- प्रसन्न : glad
+- आनन्द : joy
+- उल्लास : glee
+- आकाश : sky
+- गगन : sky
+- अम्बर : sky
+- घर : home
+- मकान : house
+- गृह : house
+- घाम : hearth
+- आवाश : house
+- आश्रम : ashram
+- मरना : to die
+- तरीका : way
+- जब तक : until : "मुझे सबह तक नहीं पाता चला"
+- प्रार्थना करना : to pray
+- प्रार्थना : prayer
+- पुकार : prayer : "उसका पुकार सुनी गई"
+- जळी ही : soon
+- को पाना चलना : to find out
+- खीज करना : to discover
+- बोलना : to speak
+- बताना : to tell
+- कहना : to say
+- से बात करना : to speak with
+- युग : age/era
+- सतयुग :
+- त्रेतायुग :
+- दवातर युग :
+- कलियुग :
+- ऋतु : season
+- ग्रीष्म : summer
+- वर्षा : monsoon
+- शरद : winter
+- हेमन्त : Autumn
+- बसन्त : Spring
+- शिशिर : Extreme Winter
+- ग्यानेनदयां‌ : senses
+- आंख : sight
+- काम : hearing
+- नाक : smell
+- मुंह : taste
+- जिहा : taste
+- चुवान : taste
+- त्वचा : touch
+- आग्रेय: south-east
+- ईशान्य : north-east
+- नॆऋत्य : south-west
+- वायव्य : north-west
+- शत्रु : enemy
+- दुश्मन : enemy
+- काम : sex
+- क्रोध : anger
+- लोभ : greed
+- मोह : craving
+- अंहकार : pride
+- पर : but
+- लेकिन : but
+- पकना : to cook
+- तरकीन : idea
+- सॆर करना : go for a walk
+- ज़िद्दी : stubborn
+- क्योंकि : because
+- यदि/तो : if/then
+- अगर/तो : if/then
+- भी : also
+- हे भगवान : Oh God!
+- चोट लगना : to get hurt
+- तबीयत : health "मेरी तबीयत अच्छी हॆ"
+- आश : hope/hopeful "मुझे आश हॆ"
+- सम्भवत : possible
+- ज़रूरी : important
+- मंहत्त्व : important
+- यकीन : certain/sure "मुझे यकीन हॆ"
+- मोड़ना : to turn
+- सूअर : pig/pork
+- कि बजाए : instead of
+- नहीं तो : otherwise
+- के बीमा : without
+- बल कि : rather
+- ब्लकि : except
+- बांह : arm
+- आंख : eye
+- भॊंहे : eyebrow
+- उंगली : finger
+- सिर : head
+- बाल : hair
+- भाथा : forehead
+- ठोढी : chin
+- गाल : cheek
+- चेहरा : face
+- घुटना‌ : knee
+- टांग : leg
+- एड़ी : ankle
+- मुंह : mouth
+- मुंछ : moustache
+- दाढ़ी : beard
+- नाक : nose
+- पीठ : back
+- मांस : skin/flesh
+- गला : throad
+- गर्दन : neck
+- होठं : lips
+- छाती : chest
+- हाथ : hand
+- कंधा : shoulder
+- कान : ears
+- पेट : belly
+- दांत : teeth
+- जीभ : tongue
+- ज़ुबान : tongue "mother tongue"
+- विशेषतॊर :‌ especially
+- ऊंठ : camel
+- चप्पल : shoes
+- वस्तुएं : things
+- हिरण : indian deer
+- बाघ : indian tiger
+- खरगोश : rabbit
+- भॆंस : buffalo
+- भेड़ : lamb
+- जीवनशॆली : lifestyle
+- मनोरंजक कार्यकलाप : leisure activities
+- टीले : mound
+- रेत : sand
+- अवकाश : holiday
+- लोकप्रिय : popular
+- समानताएं : similarities
+- विभिन्नताएं : differences
+- चर्च : discussion
+- सूची : list
+- नापसंद : dislike
+- बाद-विवाद : debate
+- प्रभावशाली : effective
+- अनुच्छेद : paragraph
+- प्रश्न-सूची : questionnaire
+- चलचित्र : cinema
+- शीर्षक : title
+- अनार : pomegranate
+- आम : mango
+- इमली : tamarind
+- ईख : sugar cane
+- उल्लू : owl
+- ऊन : yarn
+- ऋषि : rishi
+- एड़ी : heel
+- ऎनक : sunglasses
+- ओखली : mortar
+- अंनूर : grapes
+- गमला : flowerpot
+- घड़ी : clock
+- चरखा : spinning wheel
+- छतरी : umbrella
+- जग : jug
+- झण्डा : flag
+- टमाटर : tomato
+# - ठठेरा :
+# - डमरू :
+- ढकना‌ : to cover
+- तरबूज़ : watermelon
+- थन : udder
+- दवात : ink
+- धनुष : bow
+- नल : faucet
+- पतंग : kite
+- फल : fruit
+- यज्ञ : sacrifice
+- रथ : chariot
+# - लट्टू :
+- वन : forest
+- शलगम : turnip
+- षट्कोण : hexagon
+# - क्षत्रिय :
+- त्रिशूल : trident
+- ज्ञानी : knowledgable

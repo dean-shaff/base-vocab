@@ -1,0 +1,35 @@
+{
+  "name": "hindi-vocab",
+  "version": "0.1.0",
+  "description": "generate anki compatible csv files for learning basic foreign language vocabulary",
+  "main": "translate-example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc": "tsc",
+    "build": "tsc src/translate-vocab.ts --outDir build",
+    "dev": "ts-node-dev --respawn --transpileOnly"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/dean-shaff/hindi-vocab.git"
+  },
+  "keywords": [
+    "anki"
+  ],
+  "author": "Dean Shaff",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.com/dean-shaff/hindi-vocab/issues"
+  },
+  "homepage": "https://gitlab.com/dean-shaff/hindi-vocab#readme",
+  "dependencies": {
+    "request": "^2.88.0",
+    "toml-patch": "^0.2.3",
+    "uuidv4": "^6.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "^13.5.1",
+    "ts-node-dev": "^1.0.0-pre.44",
+    "typescript": "^3.7.5"
+  }
+}
